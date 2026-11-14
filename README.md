@@ -1,8 +1,8 @@
 # Multi-AI Chat 🤖
 
-A powerful, modern chat interface that integrates **multiple AI models** side-by-side for smarter conversations, comparisons, and productivity.
+> **Status: planned.** This repository currently holds the project plan only. No application code has been published here yet, so the features below describe what is intended, not what exists.
 
-![Multi-AI Chat Preview](https://via.placeholder.com/800x400?text=Add+your+screenshot+here)
+A powerful, modern chat interface that integrates **multiple AI models** side-by-side for smarter conversations, comparisons, and productivity.
 
 ## Why This Project?
 
@@ -14,13 +14,13 @@ Tired of switching between different AI tools? Multi-AI Chat lets you:
 
 Perfect for developers, researchers, students, and power users.
 
-## Features
+## Planned features
 
-- ✅ Support for multiple AI providers (Grok, OpenAI, Anthropic, etc.)
-- ✅ Side-by-side model comparison
-- ✅ Modern responsive UI (React/Next.js)
-- ✅ Conversation history & export options
-- ✅ Clean architecture ready for extensions
+- [ ] Support for multiple AI providers (Grok, OpenAI, Anthropic, etc.)
+- [ ] Side-by-side model comparison
+- [ ] Modern responsive UI (React/Next.js)
+- [ ] Conversation history & export options
+- [ ] Clean architecture ready for extensions
 
 ## Tech Stack
 
@@ -29,7 +29,7 @@ Perfect for developers, researchers, students, and power users.
 - **AI Integration**: Direct API calls + LangChain ready
 - **State Management**: Modern hooks / Zustand
 
-## Getting Started
+## Getting Started (once code is published)
 
 ### Prerequisites
 - Node.js 18+
@@ -70,9 +70,6 @@ If this tool helps you in your work or studies, please consider supporting its d
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue?logo=github)](https://github.com/sponsors/sachin1024-92)
 
-Or buy me a coffee:
-- [BuyMeACoffee](https://www.buymeacoffee.com/)
-- [Ko-fi](https://ko-fi.com/)
 
 ## License
 
